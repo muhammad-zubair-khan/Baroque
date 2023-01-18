@@ -1,0 +1,15 @@
+.ft-head {
+    text-transform: uppercase;
+    font-size: medium;
+}
+
+.ft-line {
+    border-right: 1px solid #333333;
+    height: 195px;
+    margin-top: 7px;
+}
+
+.up-ft {
+    background-color: #ECECEC;
+    padding: 35px 0px;
+}
